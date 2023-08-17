@@ -5,13 +5,13 @@
 
 - 🧬 I’m currently working on [nf-core/eager](https://github.com/nf-core/eager)
 
-- 🌱 I’m currently learning in [Tropical Archaeogenetics Lab]([https://www.eva.mpg.de/archaeogenetics/staff/](https://www.eva.mpg.de/tropical-archaeogenomics/overview/)
+- 🌱 I’m currently learning in [Tropical Archaeogenetics Lab](https://www.eva.mpg.de/tropical-archaeogenomics/overview/)
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/jbv2?tab=repositories)
 
 - 📫 How to reach me **judith_ballesteros@eva.mpg.de**
 
-- 📄 Know about my experiences [https://www.eva.mpg.de/archaeogenetics/staff/judith-ballesteros/](https://www.eva.mpg.de/archaeogenetics/staff/judith-ballesteros/)
+- 📄 Know about my experiences [MPI-site](https://www.eva.mpg.de/archaeogenetics/staff/judith-ballesteros/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
