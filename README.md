@@ -5,9 +5,9 @@
 
 - 🧬 I’m currently working on [nf-core/eager](https://github.com/nf-core/eager)
 
-- 🌱 I’m currently learning [in Tropical Archaeogenetics Lab](https://www.eva.mpg.de/archaeogenetics/staff/)
+- 🌱 I’m currently learning in [Tropical Archaeogenetics Lab]([https://www.eva.mpg.de/archaeogenetics/staff/](https://www.eva.mpg.de/tropical-archaeogenomics/overview/))
 
-- 👨‍💻 All of my projects are available at [https://github.com/jbv2?tab=repositories](https://github.com/jbv2?tab=repositories)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/jbv2?tab=repositories)
 
 - 📫 How to reach me **judith_ballesteros@eva.mpg.de**
 
