@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **judith_ballesteros@eva.mpg.de**
 
-- 📄 Know about my experiences [MPI-site](https://www.eva.mpg.de/archaeogenetics/staff/judith-ballesteros/)
+- 📄 Know about my experiences [personal site](jbv2.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
